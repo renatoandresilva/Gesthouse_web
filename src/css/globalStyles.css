@@ -51,10 +51,11 @@ div.container div, .container nav {
   margin-left: .3125rem;
 }
 
-.container nav {
+.container ul {
   display: flex;
   gap: 1.25rem;
   text-transform: uppercase;
+  list-style-type: none;
 }
 
 /* Main Top */
